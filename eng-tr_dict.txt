@@ -1,0 +1,2941 @@
+a: A
+able: hünerli
+aboard: gemide
+about: hakkında
+above: üstünde
+absent: mevcut olmayan
+accept: kabul etmek
+accident: kaza
+account: hesap
+ache: ağrı
+aching: ağrıyan
+acorn: meşe palamudu
+acre: dönüm
+across: karşısında
+act: davranmak
+acts: eylemler
+add: eklemek
+address: adres
+admire: beğenmek
+adventure: macera
+afar: uzaktan
+afraid: korkmuş
+after: sonrasında
+afternoon: öğleden sonra
+afterward: sonrasında
+afterwards: daha sonrasında
+again: Tekrar
+against: aykırı
+age: yaş
+aged: yaşlı
+ago: evvel
+agree: kabul etmek
+ah: Ah
+ahead: ilerde
+aid: yardım
+aim: amaç
+air: hava
+airfield: havaalanı
+airplane: uçak
+airport: havalimanı
+airship: zeplin
+airy: havadar
+alarm: alarm
+alike: benzer
+alive: canlı
+all: Tümü
+alley: sokak
+alligator: timsah
+allow: izin vermek
+almost: neredeyse
+alone: yalnız
+along: birlikte
+aloud: yüksek sesle
+already: çoktan
+also: Ayrıca
+always: Her zaman
+am: ben
+america: Amerika
+american: Amerikan
+among: arasında
+amount: miktar
+an: BİR
+and: Ve
+angel: melek
+anger: kızgınlık
+angry: sinirli
+animal: hayvan
+another: bir diğer
+answer: cevap
+ant: karınca
+any: herhangi
+anybody: herhangi biri
+anyhow: neyse
+anyone: herhangi biri
+anything: herhangi bir şey
+anyway: Neyse
+anywhere: herhangi bir yer
+apart: ayrı
+apartment: apartman
+ape: maymun
+apiece: bir parça
+appear: belli olmak
+apple: elma
+april: nisan
+apron: apron
+are: öyle
+aren't: değil
+arise: kalkmak
+arithmetic: aritmetik
+arm: kol
+armful: kucak dolusu
+army: ordu
+arose: ortaya çıktı
+around: etrafında
+arrange: düzenlemek
+arrive: varmak
+arrived: ulaşmış
+arrow: ok
+art: sanat
+artist: sanatçı
+as: gibi
+ash: kül
+ashes: küller
+aside: bir kenara
+ask: sormak
+asleep: uyuya kalmak
+at: en
+ate: yemek yedi
+attack: saldırı
+attend: katılmak
+attention: dikkat
+august: Ağustos
+aunt: hala
+author: yazar
+auto: Oto
+automobile: otomobil
+autumn: sonbahar
+avenue: Bulvar
+awake: uyanmak
+awaken: uyanmak
+away: uzak
+awful: berbat
+awfully: çok
+awhile: bir süre
+ax: balta
+axe: balta
+baa: haa
+babe: bebeğim
+babies: bebekler
+back: geri
+background: arka plan
+backward: geriye
+backwards: geriye doğru
+bacon: domuz pastırması
+bad: kötü
+badge: rozet
+badly: kötü
+bag: çanta
+bake: pişmek
+baker: fırıncı
+bakery: fırın
+baking: pişirme
+ball: top
+balloon: balon
+banana: muz
+band: bant
+bandage: bandaj
+bang: patlama
+banjo: banço
+bank: banka
+banker: bankacı
+bar: çubuk
+barber: berber
+bare: çıplak
+barefoot: yalınayak
+barely: neredeyse
+bark: havlamak
+barn: ahır
+barrel: varil
+base: temel
+baseball: beyzbol
+basement: bodrum
+basket: sepet
+bat: yarasa
+batch: grup
+bath: banyo
+bathe: yıkanmak
+bathing: banyo yapmak
+bathroom: banyo
+bathtub: küvet
+battle: savaş
+battleship: savaş gemisi
+bay: koy
+be: olmak
+beach: sahil
+bead: boncuk
+beam: ışın
+bean: fasulye
+bear: ayı
+beard: sakal
+beast: canavar
+beat: vurmak
+beating: dayak
+beautiful: Güzel
+beautify: güzelleştirmek
+beauty: güzellik
+became: oldu
+because: Çünkü
+become: haline gelmek
+becoming: olmak
+bed: yatak
+bedbug: tahta kurusu
+bedroom: yatak odası
+bedspread: yatak örtüsü
+bedtime: yatma vakti
+bee: bal arısı
+beech: kayın
+beef: biftek
+beefsteak: sığır biftek
+beehive: arı kovanı
+been: olmuştur
+beer: bira
+beet: pancar
+before: önce
+beg: dilenmek
+began: başlamak
+beggar: dilenci
+begged: yalvardı
+begin: başlamak
+beginning: başlangıç
+begun: başladı
+behave: davranmak
+behind: arka
+being: yapı
+believe: inanmak
+bell: zil
+belong: ait olmak
+below: altında
+belt: kemer
+bench: Bank
+bend: bükülmek
+beneath: altında
+bent: kıvrılmış
+berries: meyveler
+berry: dut
+beside: yanında
+besides: Ayrıca
+best: en iyi
+bet: bahis
+better: daha iyi
+between: arasında
+bib: önlük
+bible: Kutsal Kitap
+bicycle: bisiklet
+bid: teklif etmek
+big: büyük
+bigger: daha büyük
+bill: fatura
+billboard: ilan panosu
+bin: çöp Kutusu
+bind: bağlamak
+bird: kuş
+birth: doğum
+birthday: doğum günü
+biscuit: bisküvi
+bit: biraz
+bite: ısırmak
+biting: ısırma
+bitter: acı
+black: siyah
+blackberry: böğürtlen
+blackbird: karatavuk
+blackboard: yazı tahtası
+blackness: siyahlık
+blacksmith: demirci
+blame: suçlamak
+blank: boşluk
+blanket: battaniye
+blast: büyük patlama
+blaze: alev
+bleed: kanama
+bless: korusun
+blessing: nimet
+blew: patladı
+blind: kör
+blindfold: körü körüne
+blinds: panjur
+block: engellemek
+blood: kan
+bloom: çiçek açmak
+blossom: çiçek
+blot: kirletmek
+blow: üflemek
+blue: mavi
+blueberry: Yabanmersini
+bluebird: Mavikuş
+blush: kızarmak
+board: pano
+boast: övünme
+boat: bot
+bob: bob
+bobwhite: bobwhite
+bodies: bedenler
+body: vücut
+boil: kaynamak
+boiler: Kazan
+bold: gözü pek
+bone: kemik
+bonnet: kaporta
+boo: boo
+book: kitap
+bookcase: kitaplık
+bookkeeper: muhasebeci
+boom: Boom
+boot: bot
+born: doğmak
+borrow: borç almak
+boss: patron
+both: ikisi birden
+bother: rahatsız etmek
+bottle: şişe
+bottom: alt
+bought: satın alınmış
+bounce: sıçrama
+bow: yay
+bowl: tas
+bow-wow: yay-vay
+box: kutu
+boxcar: yük vagonu
+boxer: boksör
+boxes: kutular
+boy: erkek çocuk
+boyhood: çocukluk
+bracelet: bileklik
+brain: beyin
+brake: fren
+bran: kepek
+branch: dal
+brass: pirinç
+brave: cesur
+bread: ekmek
+break: kırmak
+breakfast: kahvaltı
+breast: göğüs
+breath: nefes
+breathe: nefes almak
+breeze: Meltem
+brick: tuğla
+bride: gelin
+bridge: köprü
+bright: parlak
+brightness: parlaklık
+bring: getirmek
+broad: kalın
+broadcast: yayın
+broke: parasız
+broken: kırık
+brook: dere
+broom: süpürge
+brother: Erkek kardeş
+brought: getirilmiş
+brown: kahverengi
+brush: fırçalamak
+bubble: kabarcık
+bucket: Kova
+buckle: toka
+bud: tomurcuk
+buffalo: manda
+bug: böcek
+buggy: arabalı
+build: inşa etmek
+building: bina
+built: inşa edilmiş
+bulb: ampul
+bull: Boğa
+bullet: kurşun
+bum: serseri
+bumblebee: yaban arısı
+bump: çarpmak
+bun: topuz
+bunch: demet
+bundle: paket
+bunny: tavşan
+burn: yakmak
+burst: patlamak
+bury: gömmek
+bus: otobüs
+bush: çalı
+bushel: kile
+business: işletme
+busy: Meşgul
+but: Ancak
+butcher: Kasap
+butt: popo
+butter: tereyağı
+buttercup: düğün çiçeği
+butterfly: kelebek
+buttermilk: yağlı süt
+butterscotch: karamela
+button: düğme
+buttonhole: ilik
+buy: satın almak
+buzz: vızıltı
+by: ile
+bye: Hoşçakal
+cab: taksi
+cabbage: lahana
+cabin: kabin
+cabinet: kabine
+cackle: gıdaklama
+cage: kafes
+cake: kek
+calendar: takvim
+calf: buzağı
+call: Arama
+caller: arayan
+calling: aramak
+came: gelmek
+camel: deve
+camp: kamp
+campfire: kamp ateşi
+can: olabilmek
+canal: kanal
+canary: kanarya
+candle: mum
+candlestick: şamdan
+candy: Şeker
+cane: baston
+cannon: top
+cannot: yapamamak
+canoe: kano
+can't: yapamamak
+canyon: kanyon
+cap: kap
+cape: pelerin
+capital: başkent
+captain: Kaptan
+car: araba
+card: kart
+cardboard: karton
+care: bakım
+careful: dikkatli olmak
+careless: dikkatsiz
+carelessness: dikkatsizlik
+carload: araba yükü
+carpenter: marangoz
+carpet: halı
+carriage: taşıma
+carrot: havuç
+carry: taşımak
+cart: araba
+carve: oymak
+case: dava
+cash: peşin
+cashier: kasiyer
+castle: kale
+cat: kedi
+catbird: kedi kuşu
+catch: yakalamak
+catcher: yakalayıcı
+caterpillar: tırtıl
+catfish: yayın balığı
+catsup: ketçap
+cattle: sığırlar
+caught: yakalanmış
+cause: neden
+cave: mağara
+ceiling: tavan
+cell: hücre
+cellar: kiler
+cent: sent
+center: merkez
+cereal: mısır gevreği
+certain: kesin
+certainly: kesinlikle
+chain: zincir
+chair: sandalye
+chalk: tebeşir
+champion: şampiyon
+chance: şans
+change: değiştirmek
+chap: Çatlak
+charge: şarj
+charm: cazibe
+chart: çizelge
+chase: takip etmek
+chatter: gevezelik
+cheap: ucuz
+cheat: aldatmak
+check: kontrol etmek
+checkers: dama
+cheek: yanak
+cheer: tezahürat
+cheese: peynir
+cherry: Kiraz
+chest: göğüs
+chew: çiğnemek
+chick: piliç
+chicken: tavuk
+chief: şef
+child: çocuk
+childhood: çocukluk
+children: çocuklar
+chill: sakin olmak
+chilly: soğuk
+chimney: baca
+chin: çene
+china: Çin
+chip: yonga
+chipmunk: sincap
+chocolate: çikolata
+choice: seçenek
+choose: seçmek
+chop: kesmek
+chorus: Koro
+chose: seçti
+chosen: seçilmiş
+christen: vaftiz etmek
+christmas: noel
+church: kilise
+churn: yayık
+cigarette: sigara
+circle: daire
+circus: sirk
+citizen: vatandaş
+city: şehir
+clang: çınlama
+clap: alkış
+class: sınıf
+classmate: sınıf arkadaşı
+classroom: sınıf
+claw: pençe
+clay: kil
+clean: temiz
+cleaner: temizleyici
+clear: temizlemek
+clerk: katip
+clever: akıllı
+click: tıklamak
+cliff: uçurum
+climb: tırmanmak
+clip: klips
+cloak: pelerin
+clock: saat
+close: kapalı
+closet: dolap
+cloth: kumaş
+clothes: kıyafetler
+clothing: Giyim
+cloud: bulut
+cloudy: bulutlu
+clover: yonca
+clown: palyaço
+club: kulüp
+cluck: gıdaklamak
+clump: Tortu
+coach: koç
+coal: kömür
+coast: sahil
+coat: kaban
+cob: koçanı
+cobbler: ayakkabı tamircisi
+cocoa: kakao
+coconut: Hindistan cevizi
+cocoon: koza
+cod: Morina
+codfish: morina
+coffee: Kahve
+coffeepot: cezve
+coin: madeni para
+cold: soğuk
+collar: yaka
+college: kolej
+color: renk
+colored: renkli
+colt: tay
+column: kolon
+comb: tarak
+come: Gelmek
+comfort: konfor
+comic: komik
+coming: gelen
+company: şirket
+compare: karşılaştırmak
+conductor: kondüktör
+cone: koni
+connect: bağlamak
+coo: sakin ol
+cook: aşçı
+cooked: pişmiş
+cooking: yemek pişirmek
+cookie: kurabiye
+cookies: kurabiye
+cool: Serin
+cooler: soğutucu
+coop: kümes
+copper: bakır
+copy: kopyala
+cord: kordon
+cork: mantar
+corn: Mısır
+corner: köşe
+correct: doğru
+cost: maliyet
+cot: bebek karyolası
+cottage: kır evi
+cotton: pamuk
+couch: kanepe
+cough: öksürük
+could: abilir
+couldn't: yapamadım
+count: saymak
+counter: tezgah
+country: ülke
+county: ilçe
+course: kurs
+court: mahkeme
+cousin: kuzen
+cover: kapak
+cow: inek
+coward: korkak
+cowardly: korkakça
+cowboy: kovboy
+cozy: samimi
+crab: yengeç
+crack: çatırtı
+cracker: kraker
+cradle: beşik
+cramps: kramplar
+cranberry: kızılcık
+crank: krank
+cranky: huysuz
+crash: kaza
+crawl: sürünmek
+crazy: deli
+cream: krem
+creamy: kremsi
+creek: dere
+creep: sürünme
+crept: sürünerek
+cried: ağladı
+croak: vıraklamak
+crook: dolandırıcı
+crooked: çarpık
+crop: mahsul
+cross: geçmek
+crossing: geçit
+cross-eyed: şaşı
+crow: karga
+crowd: kalabalık
+crowded: kalabalık
+crown: taç
+cruel: acımasız
+crumb: kırıntı
+crumble: ufalanmak
+crush: ezmek
+crust: kabuk
+cry: ağlamak
+cries: ağlıyor
+cub: yavru
+cuff: manşet
+cup: bardak
+cupboard: büfe
+cupful: bardak dolusu
+cure: tedavi
+curl: kıvırmak
+curly: kıvırcık
+curtain: perde
+curve: eğri
+cushion: minder
+custard: muhallebi
+customer: müşteri
+cut: kesmek
+cute: Sevimli
+cutting: kesme
+dab: kurulamak
+dad: baba
+daddy: babacığım
+daily: günlük
+dairy: günlük
+daisy: papatya
+dam: baraj
+damage: zarar
+dame: kadın
+damp: nemli
+dance: dans
+dancer: dansçı
+dancing: dans
+dandy: züppe
+danger: tehlike
+dangerous: tehlikeli
+dare: cesaret etmek
+dark: karanlık
+darkness: karanlık
+darling: Canım
+darn: kahretsin
+dart: Dart oyunu
+dash: kısa çizgi
+date: tarih
+daughter: kız çocuğu
+dawn: şafak
+day: gün
+daybreak: şafak
+daytime: gündüz
+dead: ölü
+deaf: sağır
+deal: anlaşmak
+dear: Sayın
+death: ölüm
+december: Aralık
+decide: karar vermek
+deck: güverte
+deed: senet
+deep: derin
+deer: geyik
+defeat: yenmek
+defend: savunmak
+defense: savunma
+delight: zevk
+den: den
+dentist: dişçi
+depend: bağlı olmak
+deposit: Depozito
+describe: betimlemek
+desert: çöl
+deserve: hak etmek
+desire: arzu
+desk: çalışma masası
+destroy: tahrip etmek
+devil: şeytan
+dew: çiy
+diamond: elmas
+did: yaptı
+didn't: yapmadı
+die: ölmek
+died: ölü
+dies: ölür
+difference: fark
+different: farklı
+dig: kazmak
+dim: loş
+dime: on sent
+dine: yemek
+ding-dong: çetin
+dinner: akşam yemeği
+dip: daldırma
+direct: doğrudan
+direction: yön
+dirt: kir
+dirty: kirli
+discover: keşfetmek
+dish: tabak
+dislike: Beğenmemek
+dismiss: azletmek
+ditch: Hendek
+dive: dalmak
+diver: dalgıç
+divide: bölmek
+do: Yapmak
+dock: rıhtım
+doctor: doktor
+does: yapmak
+doesn't: değil
+dog: köpek
+doll: oyuncak bebek
+dollar: dolar
+dolly: oyuncak bebek
+done: Tamamlandı
+donkey: eşek
+don't: yapma
+door: kapı
+doorbell: kapı zili
+doorknob: kapı tokmağı
+doorstep: kapı eşiği
+dope: uyarıcı vermek
+dot: nokta
+double: çift
+dough: hamur
+dove: güvercin
+down: aşağı
+downstairs: alt kat
+downtown: şehir merkezi
+dozen: düzine
+drag: sürüklemek
+drain: boşaltmak
+drank: içti
+draw: çizmek
+drawer: çekmece
+drawing: çizim
+dream: rüya
+dress: elbise
+dresser: şifonyer
+dressmaker: terzi
+drew: çizdi
+dried: kurutulmuş
+drift: sürüklenme
+drill: delmek
+drink: içmek
+drip: damlama
+drive: sürmek
+driven: sürmüş
+driver: sürücü
+drop: düşürmek
+drove: sürdü
+drown: bastırmak
+drowsy: uykulu
+drub: sıkıcı
+drum: davul
+drunk: sarhoş
+dry: kuru
+duck: ördek
+due: vadesi dolmuş
+dug: kazmak
+dull: sıkıcı
+dumb: sersem
+dump: çöplük
+during: sırasında
+dust: toz
+dusty: tozlu
+duty: görev
+dwarf: cüce
+dwell: ikamet etmek
+dwelt: ikamet
+dying: ölme
+each: her biri
+eager: istekli
+eagle: kartal
+ear: kulak
+early: erken
+earn: para kazanmak
+earth: toprak
+east: doğu
+eastern: doğu
+easy: kolay
+eat: yemek yemek
+eaten: yenilmiş
+edge: kenar
+egg: Yumurta
+eh: eh
+eight: sekiz
+eighteen: on sekiz
+eighth: sekizinci
+eighty: seksen
+either: herhangi biri
+elbow: dirsek
+elder: yaşlı
+eldest: en büyüğü
+electric: elektrik
+electricity: elektrik
+elephant: fil
+eleven: on bir
+elf: elf
+elm: karaağaç
+else: başka
+elsewhere: başka yerde
+empty: boş
+end: son
+ending: bitirme
+enemy: düşman
+engine: motor
+engineer: mühendis
+english: İngilizce
+enjoy: Eğlence
+enough: yeterli
+enter: girmek
+envelope: mektup
+equal: eşit
+erase: silmek
+eraser: silgi
+errand: ayak işi
+escape: kaçmak
+eve: havva
+even: eşit
+evening: akşam
+ever: durmadan
+every: Her
+everybody: herkes
+everyday: Her gün
+everyone: herkes
+everything: her şey
+everywhere: her yer
+evil: fenalık
+exact: bire bir aynı
+except: hariç
+exchange: değişme
+excited: heyecanlı
+exciting: heyecan verici
+excuse: mazeret
+exit: çıkış
+expect: beklemek
+explain: açıklamak
+extra: ekstra
+eye: göz
+eyebrow: kaş
+fable: masal
+face: yüz
+facing: karşı karşıya
+fact: hakikat
+factory: fabrika
+fail: hata
+faint: bayılmak
+fair: adil
+fairy: peri
+faith: inanç
+fake: sahte
+fall: düşmek
+false: YANLIŞ
+family: aile
+fan: fan
+fancy: süslü
+far: uzak
+faraway: uzak
+fare: Ücret
+farmer: çiftçi
+farm: çiftlik
+farming: çiftçilik
+far-off: uzakta
+farther: daha uzak
+fashion: moda
+fast: hızlı
+fasten: tutturmak
+fat: yağ
+father: baba
+fault: arıza
+favor: iyilik
+favorite: favori
+fear: korku
+feast: bayram
+feather: tüy
+february: Şubat
+fed: Besledi
+feed: beslemek
+feel: hissetmek
+feet: ayak
+fell: düşmüş
+fellow: aynı tür
+felt: keçe
+fence: çit
+fever: ateş
+few: bir kaç
+fib: yalan
+fiddle: Vaktini boşa harcamak
+field: alan
+fife: beş
+fifteen: on beş
+fifth: beşinci
+fifty: elli
+fig: incir
+fight: kavga
+figure: figür
+file: dosya
+fill: doldurmak
+film: film
+finally: Sonunda
+find: bulmak
+fine: iyi
+finger: parmak
+finish: sona ermek
+fire: ateş
+firearm: ateşli silah
+firecracker: havai fişek
+fireplace: şömine
+fireworks: havai fişek
+firing: ateşleme
+first: Birinci
+fish: balık
+fisherman: balıkçı
+fist: yumruk
+fit: yerleştirmek
+fits: uyuyor
+five: beş
+fix: düzeltmek
+flag: bayrak
+flake: pul
+flame: alev
+flap: kapak
+flash: flaş
+flashlight: el feneri
+flat: düz
+flea: Pire
+flesh: et
+flew: uçtu
+flies: sinekler
+flight: uçuş
+flip: çevir
+flip-flop: takla
+float: batmadan yüzmek
+flock: sürü
+flood: sel basmak
+floor: zemin
+flop: başarısızlık
+flour: un
+flow: akış
+flower: çiçek
+flowery: çiçekli
+flutter: çarpıntı
+fly: uçmak
+foam: köpük
+fog: sis
+foggy: sisli
+fold: katlamak
+folks: millet
+follow: takip etmek
+following: takip etme
+fond: düşkün
+food: yiyecek
+fool: aptal
+foolish: aptalca
+foot: ayak
+football: Futbol
+footprint: ayak izi
+for: için
+forehead: alın
+forest: orman
+forget: unutmak
+forgive: affetmek
+forgot: unutmuş olmak
+forgotten: unutulmuş
+fork: çatal
+form: biçim
+fort: kale
+forth: ileri
+fortune: talih
+forty: kırk
+forward: ileri
+fought: kavga etti
+found: kurmak
+fountain: Çeşme
+four: dört
+fourteen: on dört
+fourth: dördüncü
+fox: tilki
+frame: çerçeve
+free: özgür
+freedom: özgürlük
+freeze: donmak
+freight: navlun
+french: Fransızca
+fresh: taze
+fret: endişe
+friday: cuma
+fried: kızarmış
+friend: arkadaş
+friendly: arkadaşça
+friendship: dostluk
+frighten: korkutmak
+frog: kurbağa
+from: itibaren
+front: ön
+frost: don
+frown: kaşlarını çatmak
+froze: dondu
+fruit: meyve
+fry: yağda kızartmak
+fudge: geçiştirmek
+fuel: yakıt
+full: tam dolu
+fully: tamamen
+fun: eğlence
+funny: eğlenceli
+fur: kürk
+furniture: mobilya
+further: daha öte
+fuzzy: bulanık
+gain: kazanmak
+gallon: galon
+gallop: dörtnala koşmak
+game: oyun
+gang: çete
+garage: garaj
+garbage: çöp
+garden: bahçe
+gas: gaz
+gasoline: benzin
+gate: geçit
+gather: toplamak
+gave: verilmiş
+gay: eşcinsel
+gear: vites
+geese: kazlar
+general: genel
+gentle: nazik
+gentleman: beyefendi
+gentlemen: beyler
+geography: coğrafya
+get: elde etmek
+getting: edinme
+giant: devasa
+gift: hediye
+gingerbread: zencefilli çörek
+girl: kız
+give: vermek
+given: verildi
+giving: vermek
+glad: memnun
+gladly: memnuniyetle
+glance: bakış atmak
+glass: bardak
+glasses: gözlük
+gleam: parıltı
+glide: süzülmek
+glory: görkem
+glove: eldiven
+glow: parıltı
+glue: zamk
+go: Gitmek
+going: giden
+goes: gitmek
+goal: amaç
+goat: keçi
+gobble: silip süpürmek
+god: Tanrı
+godmother: vaftiz annesi
+gold: altın
+golden: altın
+goldfish: Akvaryum balığı
+golf: golf
+gone: gitmiş
+good: iyi
+goods: mal
+goodbye: Güle güle
+good-by: Hadi güle güle
+good-bye: Güle güle
+good-looking: iyi görünümlü
+goodness: iyilik
+goody: hoşçakal
+goose: Kaz
+gooseberry: Bektaşi üzümü
+got: var
+govern: yönetmek
+government: devlet
+gown: elbise
+grab: yakalamak
+gracious: zarif
+grade: seviye
+grain: tahıl
+grand: büyük
+grandchild: torun
+grandchildren: torunlar
+granddaughter: kız torun
+grandfather: Büyük baba
+grandma: büyükanne
+grandmother: Nene
+grandpa: büyükbaba
+grandson: erkek torun
+grandstand: tribün
+grape: üzüm
+grapes: üzüm
+grapefruit: greyfurt
+grass: çimen
+grasshopper: çekirge
+grateful: minnettar
+grave: mezar
+gravel: çakıl
+graveyard: mezarlık
+gravy: sos
+gray: gri
+graze: otlatmak
+grease: gres
+great: Harika
+green: yeşil
+greet: selamlaşmak
+grew: büyüdü
+grind: öğütmek
+groan: inilti
+grocery: bakkal
+ground: zemin
+group: grup
+grove: koru
+grow: büyümek
+guard: koruma
+guess: tahmin etmek
+guest: misafir
+guide: rehber
+gulf: körfez
+gum: sakız
+gun: silah
+gunpowder: barut
+guy: adam
+ha: Ha
+habit: alışkanlık
+had: vardı
+hadn't: yapmamıştı
+hail: dolu
+hair: saç
+haircut: saç kesimi
+hairpin: saç tokası
+half: yarım
+hall: salon
+halt: dur
+ham: jambon
+hammer: çekiç
+hand: el
+handful: avuç
+handkerchief: mendil
+handle: halletmek
+handwriting: el yazısı
+hang: asmak
+happen: olmak
+happily: mutlu bir şekilde
+happiness: mutluluk
+happy: mutlu
+harbor: liman
+hard: zor
+hardly: zorlu
+hardship: zorluk
+hardware: donanım
+hare: tavşan
+hark: dinle
+harm: zarar
+harness: tesisat
+harp: arp
+harvest: hasat
+has: sahip olmak
+hasn't: değil
+haste: acele
+hasten: acele etmek
+hasty: aceleci
+hat: şapka
+hatch: kapak
+hatchet: balta
+hate: nefret
+haul: çekmek
+have: sahip olmak
+haven't: yapmadım
+having: sahip olmak
+hawk: şahin
+hay: saman
+hayfield: samanlık
+haystack: saman yığını
+he: O
+head: KAFA
+headache: baş ağrısı
+heal: iyileştirmek
+health: sağlık
+healthy: sağlıklı
+heap: yığın
+hear: duymak
+hearing: işitme
+heard: duyulmuş
+heart: kalp
+heat: sıcaklık
+heater: ısıtıcı
+heaven: cennet
+heavy: ağır
+he'd: o
+heel: topuk
+height: yükseklik
+held: tutulmuş
+hell: cehennem
+he'll: cehennem
+hello: Merhaba
+helmet: kask
+help: yardım
+helper: yardımcı
+helpful: yardımsever
+hem: etek
+hen: tavuk
+henhouse: kümes
+her: o
+hers: onunki
+herd: sürü
+here: Burada
+here's: işte
+hero: kahraman
+herself: kendini
+he's: o
+hey: Hey
+hickory: ceviz
+hid: saklandı
+hidden: gizlenmiş
+hide: saklamak
+high: yüksek
+highway: otoyol
+hill: tepe
+hillside: yamaç
+hilltop: Tepenin zirvesi
+hilly: tepelik
+him: o
+himself: kendisi
+hind: arka
+hint: ipucu
+hip: belki
+hire: kiralamak
+his: onun
+hiss: tıslama
+history: tarih
+hit: vurmak
+hitch: aksaklık
+hive: kovan
+ho: merhaba
+hoe: çapa
+hog: açgözlü
+hold: tutmak
+holder: Kulp
+hole: delik
+holiday: tatil
+hollow: oyuk
+holy: kutsal
+home: Ev
+homely: sade
+homesick: Vatan hasreti çeken
+honest: dürüst
+honey: Bal
+honeybee: bal arısı
+honeymoon: balayı
+honk: korna çalmak
+honor: onur
+hood: kapüşon
+hoof: toynak
+hook: kanca
+hoop: çember
+hop: atlama
+hope: umut
+hopeful: umutlu
+hopeless: Umutsuz
+horn: korna
+horse: atış
+horseback: at sırtında
+horseshoe: at nalı
+hose: hortum
+hospital: hastane
+host: ev sahibi
+hot: sıcak
+hotel: otel
+hound: tazı
+hour: saat
+house: ev
+housetop: çatı katı
+housewife: ev hanımı
+housework: ev işi
+how: Nasıl
+however: Yine de
+howl: uluma
+hug: sarılmak
+huge: büyük
+hum: uğultu
+humble: mütevazı
+hump: kambur
+hundred: yüz
+hung: asılı
+hunger: açlık
+hungry: aç
+hunk: iri parça
+hunt: avlamak
+hunter: avcı
+hurrah: yaşasın
+hurried: aceleyle
+hurry: acele etmek
+hurt: acıtmak
+husband: koca
+hush: sus
+hut: kulübe
+hymn: ilahi
+i: Ben
+ice: buz
+icy: buzlu
+i'd: İD
+idea: fikir
+ideal: ideal
+if: eğer
+ill: hasta
+i'll: hasta
+i'm: Ben
+important: önemli
+impossible: imkansız
+improve: geliştirmek
+in: içinde
+inch: inç
+inches: inç
+income: gelir
+indeed: Aslında
+indian: Hintli
+indoors: Kapalı alanlarda
+ink: mürekkep
+inn: Han
+insect: böcek
+inside: içeri
+instant: ani
+instead: yerine
+insult: hakaret
+intend: niyet etmek
+interested: ilgili
+interesting: ilginç
+into: içine
+invite: davet etmek
+iron: ütü
+is: dır-dir
+island: ada
+isn't: değil
+it: BT
+its: onun
+it's: onun
+itself: kendisi
+i've: Ya sahibim
+ivory: fildişi
+ivy: sarmaşık
+jacket: ceket
+jacks: krikolar
+jail: hapishane
+jam: reçel
+january: Ocak
+jar: kavanoz
+jaw: çene
+jay: alakarga
+jelly: jöle
+jellyfish: Deniz anası
+jerk: sarsmak
+jig: şaka
+job: iş
+jockey: jokey
+join: katılmak
+joke: şaka
+joking: şaka
+jolly: neşeli
+journey: seyahat
+joy: neşe
+joyful: neşe dolu
+joyous: neşeli
+judge: yargıç
+jug: sürahi
+juice: Meyve suyu
+juicy: sulu
+july: temmuz
+jump: zıplamak
+june: haziran
+junior: genç
+junk: hurda
+just: Sadece
+keen: hevesli
+keep: kale
+kept: tutulmuş
+kettle: su ısıtıcısı
+key: anahtar
+kick: tekme atmak
+kid: çocuk
+kill: öldürmek
+killed: öldürüldü
+kind: tür
+kindly: nazikçe
+kindness: nezaket
+king: kral
+kingdom: krallık
+kiss: öpücük
+kitchen: mutfak
+kite: uçurtma
+kitten: kedi yavrusu
+kitty: Yavru kedi
+knee: diz
+kneel: diz çökmek
+knew: biliyordum
+knife: bıçak
+knit: örgü örmek
+knives: bıçaklar
+knob: topuz
+knock: kapıyı çalmak
+knot: düğüm
+know: Bilmek
+known: bilinen
+lace: dantel
+lad: delikanlı
+ladder: merdiven
+ladies: Hanımlar
+lady: bayan
+laid: koydu
+lake: göl
+lamb: kuzu
+lame: sakatlamak
+lamp: lamba
+land: kara
+lane: Lane
+language: dil
+lantern: Fener
+lap: kucak
+lard: domuz yağı
+large: büyük
+lash: kirpik
+lass: kız
+last: son
+late: geç
+laugh: gülmek
+laundry: çamaşır
+law: kanun
+lawn: çim
+lawyer: avukat
+lay: sermek
+lazy: tembel
+lead: yol göstermek
+leader: Önder
+leaf: yaprak
+leak: sızıntı
+lean: eğilmek
+leap: sıçramak
+learn: öğrenmek
+learned: öğrendi
+least: en az
+leather: deri
+leave: ayrılmak
+leaving: ayrılmak
+led: neden olmuş
+left: sol
+leg: bacak
+lemon: limon
+lemonade: limonata
+lend: ödünç vermek
+length: uzunluk
+less: az
+lesson: ders
+let: izin vermek
+let's: Haydi
+letter: mektup
+letting: izin vermek
+lettuce: marul
+level: seviye
+liberty: özgürlük
+library: kütüphane
+lice: bitler
+lick: yalamak
+lid: kapak
+lie: yalan
+life: hayat
+lift: kaldırmak
+light: ışık
+lightness: hafiflik
+lightning: yıldırım
+like: beğenmek
+likely: büyük ihtimalle
+liking: hoşlanma
+lily: zambak
+limb: uzuv
+lime: kireç
+limp: gevşek
+line: astar
+linen: keten
+lion: aslan
+lip: dudak
+list: liste
+listen: Dinlemek
+lit: Aydınlatılmış
+little: biraz
+live: canlı
+lives: hayatları
+lively: canlı
+liver: karaciğer
+living: yaşamak
+lizard: kertenkele
+load: yük
+loaf: somun
+loan: borç
+loaves: somunlar
+lock: kilit
+locomotive: lokomotif
+log: kayıt
+lone: yalnız
+lonely: yalnız
+lonesome: yalnız
+long: uzun
+look: Bakmak
+lookout: dikkat
+loop: döngü
+loose: gevşetmek
+lord: Kral
+lose: kaybetmek
+loser: beceriksiz
+loss: kayıp
+lost: kayıp
+lot: pay
+loud: yüksek sesle
+love: Aşk
+lovely: sevimli
+lover: sevgili
+low: Düşük
+luck: şans
+lucky: şanslı
+lumber: kereste
+lump: yumru
+lunch: öğle yemeği
+lying: uzanmak
+machine: makine
+machinery: makineler
+mad: kızgın
+made: yapılmış
+magazine: dergi
+magic: büyü
+maid: hizmetçi
+mail: posta
+mailbox: posta kutusu
+mailman: postacı
+major: ana
+make: yapmak
+making: yapımı
+male: erkek
+mama: anne
+mamma: anne
+man: Adam
+manager: müdür
+mane: yele
+manger: yemlik
+many: birçok
+map: harita
+maple: akçaağaç
+marble: mermer
+march: mart
+mare: kısrak
+mark: işaret
+market: pazar
+marriage: evlilik
+married: evli
+marry: evlenmek
+mask: maske
+mast: direk
+master: usta
+mat: mat
+match: kibrit
+matter: konu
+mattress: yatak
+may: mayıs
+maybe: Belki
+mayor: Belediye Başkanı
+maypole: direği
+me: Ben
+meadow: çayır
+meal: yemek
+mean: Anlam
+means: araç
+meant: anlamına gelen
+measure: ölçüm
+meat: et
+medicine: ilaç
+meet: tanışmak
+meeting: toplantı
+melt: eritmek
+member: üye
+men: erkekler
+mend: onarmak
+meow: miyav
+merry: şen
+mess: karışıklık
+message: İleti
+met: tanışmak
+metal: metal
+mew: kafese koymak
+mice: fareler
+middle: orta
+midnight: gece yarısı
+might: belki
+mighty: güçlü
+mile: mil
+milk: süt
+milkman: sütçü
+mill: değirmen
+miler: değirmenci
+million: milyon
+mind: akıl
+mine: bana ait
+miner: madenci
+mint: nane
+minute: dakika
+mirror: ayna
+mischief: yaramazlık
+miss: kayıp
+misspell: yazım hatası
+mistake: hata
+misty: sisli
+mitt: eldiven
+mitten: eldiven
+mix: karışım
+moment: an
+monday: Pazartesi
+money: para
+monkey: maymun
+month: ay
+moo: möö
+moon: ay
+moonlight: Ay ışığı
+moose: geyik
+mop: paspas
+more: Daha
+morning: Sabah
+morrow: yarın
+moss: yosun
+most: en
+mostly: çoğunlukla
+mother: anne
+motor: motor
+mount: montaj
+mountain: dağ
+mouse: fare
+mouth: ağız
+move: taşınmak
+movie: film
+movies: filmler
+moving: hareketli
+mow: biçmek
+mr.: Bay.
+mrs.: bayan.
+much: fazla
+mud: çamur
+muddy: Bulanık
+mug: saldırıp soymak
+mule: katır
+multiply: çarpmak
+murder: cinayet
+music: müzik
+must: mutlak
+my: Benim
+myself: kendim
+nail: çivi
+name: isim
+nap: kestirme
+napkin: peçete
+narrow: dar
+nasty: edepsiz
+naughty: yaramaz
+navy: Donanma
+near: yakın
+nearby: yakında
+nearly: neredeyse
+neat: düzenli
+neck: boyun
+necktie: kravat
+need: ihtiyaç
+needle: iğne
+needn't: gerek yok
+negro: zenci
+neighbor: komşu
+neighborhood: komşu
+neither: hiç biri
+nerve: sinir
+nest: yuva
+net: açık
+never: Asla
+nevermore: bir daha asla
+new: yeni
+news: haberler
+newspaper: gazete
+next: Sonraki
+nibble: kemirmek
+nice: Güzel
+nickel: nikel
+night: gece
+nightgown: gecelik
+nine: dokuz
+nineteen: on dokuz
+ninety: doksan
+no: HAYIR
+nobody: hiç kimse
+nod: başını sallamak
+noise: gürültü
+noisy: gürültülü
+none: hiçbiri
+noon: öğlen
+nor: ne de
+north: kuzey
+northern: kuzey
+nose: burun
+not: Olumsuz
+note: Not
+nothing: Hiçbir şey
+notice: fark etme
+november: kasım
+now: Şimdi
+nowhere: Hiçbir yerde
+number: sayı
+nurse: hemşire
+nut: ceviz
+oak: meşe
+oar: kürek
+oatmeal: yulaf ezmesi
+oats: yulaf
+obey: itaat etmek
+ocean: okyanus
+o'clock: saat
+october: ekim
+odd: garip
+of: ile ilgili
+off: kapalı
+offer: teklif
+office: ofis
+officer: subay
+often: sıklıkla
+oh: ah
+oil: yağ
+old: eskimiş
+old-fashioned: eski moda
+on: Açık
+once: bir kere
+one: bir
+onion: soğan
+only: sadece
+onward: ileriye
+open: açık
+or: veya
+orange: turuncu
+orchard: meyve bahçesi
+order: emir
+ore: cevher
+organ: organ
+other: diğer
+otherwise: aksi takdirde
+ouch: ah
+ought: yapmalı
+our: bizim
+ours: bizim
+ourselves: kendimizi
+out: dışarı
+outdoors: açık havada
+outfit: kıyafet
+outlaw: haydut
+outline: taslak
+outside: dıştan
+outward: dışa doğru
+oven: fırın
+over: üzerinde
+overalls: tulum
+overcoat: palto
+overeat: aşırı yemek
+overhead: genel gider
+overhear: kulak misafiri olmak
+overnight: bir gecede
+overturn: devirmek
+owe: sahip olmak
+owing: borçlu
+owl: baykuş
+own: sahip olmak
+owner: mal sahibi
+ox: öküz
+pa: baba
+pace: adımlamak
+pack: ambalaj
+package: paket
+pad: ped
+page: sayfa
+paid: paralı
+pail: kova
+pain: ağrı
+painful: acı verici
+paint: boyamak
+painter: ressam
+painting: tablo
+pair: çift
+pal: dostum
+palace: Saray
+pale: solgun
+pan: tava
+pancake: Gözleme
+pane: bölme
+pansy: hercai menekşe
+pants: pantolon
+papa: baba
+paper: kağıt
+parade: geçit töreni
+pardon: bağışlamak
+parent: ebeveyn
+park: park
+part: parça
+partly: kısmen
+partner: ortak
+party: Parti
+pass: geçmek
+passenger: yolcu
+past: geçmiş
+paste: yapıştırmak
+pasture: otlak
+pat: okşamak
+patch: yama
+path: yol
+patter: pıtırtı
+pave: döşemek
+pavement: kaldırım
+paw: Pati
+pay: ödemek
+payment: ödeme
+pea: bezelye
+peas: bezelye
+peace: barış
+peaceful: barışçıl
+peach: şeftali
+peaches: şeftaliler
+peak: doruğa ulaşmak
+peanut: fıstık
+pear: armut
+pearl: inci
+peck: gagalamak
+peek: dikizlemek
+peel: soymak
+peep: dikizlemek
+peg: çivi
+pen: dolma kalem
+pencil: kalem
+penny: kuruş
+people: insanlar
+pepper: biber
+peppermint: nane
+perfume: parfüm
+perhaps: belki
+person: kişi
+pet: Evcil Hayvan
+phone: telefon
+piano: piyano
+pick: seçmek
+pickle: turşu
+picnic: piknik
+picture: resim
+pie: turta
+piece: parça
+pig: domuz
+pigeon: güvercin
+piggy: domuzcuk
+pile: istif
+pill: hap
+pillow: yastık
+pin: toplu iğne
+pine: çam
+pineapple: ananas
+pink: pembe
+pint: pint
+pipe: boru
+pistol: tabanca
+pit: çukur
+pitch: saha
+pitcher: sürahi
+pity: acımak
+place: yer
+plain: ova
+plan: plan
+plane: uçak
+plant: bitki
+plate: plaka
+platform: platformu
+platter: servis tabağı
+play: oynamak
+player: oyuncu
+playground: oyun alanı
+playhouse: oyun evi
+playmate: oyun arkadaşı
+plaything: oyuncak
+pleasant: güzel
+please: Lütfen
+pleasure: zevk
+plenty: bolca
+plow: pulluk
+plug: fiş
+plum: Erik
+pocket: cep
+pocketbook: cüzdan
+poem: şiir
+point: nokta
+poison: zehir
+poke: dürtmek
+pole: kutup
+police: polis
+policeman: polis
+polish: Lehçe
+polite: kibar
+pond: gölet
+ponies: midilliler
+pony: midilli
+pool: havuz
+poor: fakir
+pop: pop
+popcorn: patlamış mısır
+popped: patladı
+porch: sundurma
+pork: domuz eti
+possible: olası
+post: postalamak
+postage: posta ücreti
+postman: postacı
+pot: tencere
+potato: patates
+potatoes: patates
+pound: pound
+pour: dökün
+powder: pudra
+power: güç
+powerful: güçlü
+praise: övmek
+pray: dua etmek
+prayer: namaz
+prepare: hazırlanmak
+present: Sunmak
+pretty: tatlı
+price: fiyat
+prick: dikmek
+prince: prens
+princess: prenses
+print: Yazdır
+prison: hapishane
+prize: ödül
+promise: söz
+proper: düzgün
+protect: korumak
+proud: gurur duymak
+prove: kanıtlamak
+prune: kuru erik
+public: halk
+puddle: su birikintisi
+puff: puf
+pull: çekmek
+pump: pompa
+pumpkin: kabak
+punch: yumruk
+punish: cezalandırmak
+pup: yavru
+pupil: öğrenci
+puppy: köpek yavrusu
+pure: saf
+purple: mor
+purse: el çantası
+push: itmek
+puss: kedi
+pussy: kedi
+pussycat: kedi
+put: koymak
+putting: koyarak
+puzzle: bulmaca
+quack: şarlatan
+quart: litre
+quarter: çeyrek
+queen: kraliçe
+queer: kuir
+question: soru
+quick: hızlı
+quickly: hızlıca
+quiet: sessizlik
+quilt: yorgan
+quit: çıkış yapmak
+quite: epeyce
+rabbit: tavşan
+race: ırk
+rack: raf
+radio: radyo
+radish: turp
+rag: paçavra
+rail: Demiryolu
+railroad: demiryolu
+railway: demiryolu
+rain: yağmur
+rainy: yağmurlu
+rainbow: gökkuşağı
+raise: artırmak
+raisin: kuru üzüm
+rake: tırmıklamak
+ram: Veri deposu
+ran: koştu
+ranch: çiftlik
+rang: çaldı
+rap: rap
+rapidly: hızlıca
+rat: fare
+rate: oran
+rather: yerine
+rattle: çıngırak
+raw: çiğ
+ray: ışın
+reach: ulaşmak
+read: Okumak
+reader: okuyucu
+reading: okuma
+ready: hazır
+real: gerçek
+really: Gerçekten
+reap: biçmek
+rear: arka
+reason: sebep
+rebuild: yeniden inşa etmek
+receive: almak
+recess: teneffüs
+record: kayıt
+red: kırmızı
+redbird: kırmızı kuş
+redbreast: kızılgerdan
+refuse: reddetmek
+reindeer: ren geyiği
+rejoice: sevinmek
+remain: geriye kalmak
+remember: Unutma
+remind: hatırlatmak
+remove: kaldırmak
+rent: kira
+repair: tamirat
+repay: borcunu ödemek
+repeat: tekrarlamak
+report: rapor
+rest: dinlenmek
+return: geri dönmek
+review: gözden geçirmek
+reward: ödül
+rib: kaburga
+ribbon: kurdele
+rice: pirinç
+rich: zengin
+rid: kurtulmak
+riddle: bilmece
+ride: sürmek
+rider: binici
+riding: binme
+right: Sağ
+rim: jant
+ring: yüzük
+rip: Huzur içinde yatsın
+ripe: olgun
+rise: yükselmek
+rising: yükselen
+river: nehir
+road: yol
+roadside: yol kenarı
+roar: kükreme
+roast: haşlamak
+rob: soymak
+robber: soyguncu
+robe: elbise
+robin: ardıç kuşu
+rock: kaynak
+rocky: kayalık
+rocket: roket
+rode: Binmek
+roll: rulo
+roller: rulman
+roof: çatı
+room: oda
+rooster: horoz
+root: kök
+rope: halat
+rose: gül
+rosebud: Gül goncası
+rot: çürüme
+rotten: çürük
+rough: kaba
+round: yuvarlak
+route: rota
+row: sıra
+rowboat: kayık
+royal: asil
+rub: ovmak
+rubbed: ovuşturdu
+rubber: lastik
+rubbish: zırva
+rug: kilim
+rule: kural
+ruler: cetvel
+rumble: gürleme
+run: koşmak
+rung: basamak
+runner: koşucu
+running: koşma
+rush: acele etmek
+rust: pas
+rusty: paslı
+rye: Çavdar
+sack: çuval
+sad: üzgün
+saddle: sele
+sadness: üzüntü
+safe: güvenli
+safety: emniyet
+said: söz konusu
+sail: denize açılmak
+sailboat: yelkenli
+sailor: denizci
+saint: aziz
+salad: salata
+sale: satış
+salt: tuz
+same: Aynı
+sand: kum
+sandy: kumlu
+sandwich: sandviç
+sang: şarkı söyledi
+sank: battı
+sap: özsu
+sash: kuşak
+sat: doygunluk
+satin: saten
+satisfactory: tatmin edici
+saturday: Cumartesi
+sausage: sosis
+savage: vahşi
+save: kaydetmek
+savings: tasarruf
+saw: testere
+say: söylemek
+scab: kabuk
+scales: terazi
+scare: Korkmak
+scarf: atkı
+school: okul
+schoolboy: okul çocuğu
+schoolhouse: okul binası
+schoolmaster: okul müdürü
+schoolroom: derslik
+scorch: kavurucu
+score: Gol
+scrap: hurda
+scrape: Kazımak
+scratch: çizik
+scream: bağırmak
+screen: ekran
+screw: vida
+scrub: fırçalama
+sea: deniz
+seal: fok
+seam: dikiş
+search: aramak
+season: mevsim
+seat: koltuk
+second: ikinci
+secret: gizli
+see: Görmek
+seeing: görmek
+seed: tohum
+seek: aramak
+seem: gözükmek
+seen: görülen
+seesaw: tahterevalli
+select: seçme
+self: öz
+selfish: bencil
+sell: satmak
+send: Göndermek
+sense: algı
+sent: gönderilmiş
+sentence: cümle
+separate: ayırmak
+september: eylül
+servant: hizmetkar
+serve: sert
+service: hizmet
+set: ayarlamak
+setting: ayar
+settle: yerleşmek
+settlement: yerleşme
+seven: Yedi
+seventeen: on yedi
+seventh: yedinci
+seventy: yetmiş
+several: birçok
+sew: dikmek
+shade: gölge
+shadow: gölge
+shady: gölgeli
+shake: sallamak
+shaker: shaker
+shaking: titriyor
+shall: acak
+shame: utanç
+shan't: olmayacak
+shape: şekil
+share: paylaşmak
+sharp: keskin
+shave: tıraş olmak
+she: o
+she'd: baraka
+she'll: kabuk
+she's: o
+shear: kırpmak
+shears: makaslar
+shed: baraka
+sheep: koyun
+sheet: çarşaf
+shelf: raf
+shell: kabuk
+shepherd: çoban
+shine: parlamak
+shining: parlıyor
+shiny: parlak
+ship: gemi
+shirt: gömlek
+shock: şok
+shoe: ayakkabı
+shoemaker: kunduracı
+shone: parladı
+shook: salladı
+shoot: film çekmek
+shop: mağaza
+shopping: alışveriş
+shore: sahil
+short: kısa
+shot: atış
+should: meli
+shoulder: omuz
+shouldn't: yapmamalı
+shout: bağırmak
+shovel: kürek
+show: göstermek
+shower: duş
+shut: kapamak
+shy: utangaç
+sick: hasta
+sickness: hastalık
+side: taraf
+sidewalk: kaldırım
+sideways: yan yan
+sigh: iç çekmek
+sight: görünüş
+sign: imza
+silence: sessizlik
+silent: sessiz
+silk: ipek
+sill: eşik
+silly: şapşal
+silver: gümüş
+simple: basit
+sin: günah
+since: o zamandan beri
+sing: şarkı söylemek
+singer: şarkıcı
+single: Bekar
+sink: atmak
+sip: Yudumlamak
+sir: Sayın
+sis: kız kardeş
+sissy: hanım evladı
+sister: kız kardeş
+sit: oturmak
+sitting: oturma
+six: altı
+sixteen: on altı
+sixth: altıncı
+sixty: altmış
+size: boyut
+skate: paten
+skater: patenci
+ski: kayak
+skin: deri
+skip: atlamak
+skirt: etek
+sky: gökyüzü
+slam: çarpmak
+slap: tokat
+slate: kayrak
+slave: köle
+sled: kızak
+sleep: uyumak
+sleepy: uykulu
+sleeve: elbise kolu
+sleigh: kızak
+slept: uyudum
+slice: dilim
+slid: kaymış
+slide: slayt
+sling: sapan
+slip: kayma
+slipped: kaymış
+slipper: terlik
+slippery: kaygan
+slit: yarık
+slow: yavaş
+slowly: yavaşça
+sly: kurnaz
+smack: şaplak
+small: küçük
+smart: akıllı
+smell: koku
+smile: gülümsemek
+smoke: Sigara içmek
+smooth: düz
+snail: salyangoz
+snake: yılan
+snap: patlatmak
+snapping: yakalama
+sneeze: hapşırmak
+snow: kar
+snowy: kar yağışlı
+snowball: kartopu
+snowflake: kar tanesi
+snuff: enfiye
+snug: rahat
+so: Bu yüzden
+soak: emmek
+soap: sabun
+sob: hıçkırmak
+socks: çorap
+sod: ot
+soda: soda
+sofa: divan
+soft: yumuşak
+soil: toprak
+sold: satılmış
+soldier: asker
+sole: ayak tabanı
+some: bazı
+somebody: birisi
+somehow: bir şekilde
+someone: birisi
+something: bir şey
+sometime: bazen
+sometimes: Bazen
+somewhere: bir yerde
+son: oğul
+song: şarkı
+soon: yakında
+sore: yara
+sorrow: üzüntü
+sorry: Üzgünüm
+sort: düzenlemek
+soul: ruh
+sound: ses
+soup: çorba
+sour: ekşi
+south: güney
+southern: güney
+space: uzay
+spade: kürek
+spank: şaplak
+sparrow: serçe
+speak: konuşmak
+speaker: hoparlör
+spear: mızrak
+speech: konuşma
+speed: hız
+spell: hecelemek
+spelling: yazım
+spend: harcamak
+spent: harcanan
+spider: örümcek
+spike: başak
+spill: dökülme
+spin: döndürmek
+spinach: ıspanak
+spirit: ruh
+spit: tükürmek
+splash: sıçrama
+spoil: şımartmak
+spoke: konuştu
+spook: hayalet
+spoon: kaşık
+sport: spor
+spot: leke
+spread: yaymak
+spring: bahar
+springtime: bahar zamanı
+sprinkle: serpmek
+square: kare
+squash: kabak
+squeak: gıcırdamak
+squeeze: sıkmak
+squirrel: sincap
+stable: stabil
+stack: yığın
+stage: sahne
+stair: merdiven
+stall: ahır
+stamp: damga vurmak
+stand: durmak
+star: yıldız
+stare: bakmak
+start: başlangıç
+starve: açlıktan ölmek
+state: durum
+station: istasyon
+stay: kalmak
+steak: biftek
+steal: hırsızlık yapmak
+steam: buhar
+steamboat: vapur
+steamer: vapur
+steel: çelik
+steep: dik
+steeple: çan kulesi
+steer: yönlendirmek
+stem: kök
+step: adım
+stepping: adım atma
+stick: sopa
+sticky: yapışkan
+stiff: katı
+still: Hala
+stillness: sessizlik
+sting: acı
+stir: karıştırmak
+stitch: dikiş
+stock: stoklamak
+stocking: çorap
+stole: çaldı
+stone: taş
+stood: durmak
+stool: dışkı
+stoop: eğilmek
+stop: durmak
+stopped: durduruldu
+stopping: Durduruluyor
+store: mağaza
+stork: leylek
+stories: hikayeler
+storm: fırtına
+stormy: fırtınalı
+story: hikaye
+stove: soba
+straight: dümdüz
+strange: garip
+stranger: yabancı
+strap: kayış
+straw: pipet
+strawberry: çilek
+stream: aktarım
+street: sokak
+stretch: uzatmak
+string: sicim
+strip: şerit
+stripes: çizgili
+strong: güçlü
+stuck: sıkışmak
+study: çalışmak
+stuff: şey
+stump: kütük
+stung: sokulmuş
+subject: ders
+such: çok
+suck: emmek
+sudden: birden
+suffer: acı çekmek
+sugar: şeker
+suit: uygun olmak
+sum: toplam
+summer: yaz
+sun: güneş
+sunday: Pazar
+sunflower: ayçiçeği
+sung: söylenmiş
+sunk: battı
+sunlight: Güneş ışığı
+sunny: güneşli
+sunrise: gündoğumu
+sunset: gün batımı
+sunshine: güneş ışığı
+supper: akşam yemeği
+suppose: sanmak
+sure: Elbette
+surely: kesinlikle
+surface: yüzey
+surprise: sürpriz
+swallow: yutmak
+swam: yüzdü
+swamp: bataklık
+swan: kuğu
+swat: swat
+swear: küfür
+sweat: ter
+sweater: Kazak
+sweep: süpürmek
+sweet: tatlı
+sweetness: tatlılık
+sweetheart: Tatlım
+swell: kabarma
+swept: süpürüldü
+swift: süratli
+swim: yüzmek
+swimming: yüzme
+swing: sallanmak
+switch: anahtar
+sword: kılıç
+swore: yemin
+table: masa
+tablecloth: masa örtüsü
+tablespoon: yemek kasigi
+tablet: tablet
+tack: raptiye
+tag: etiket
+tail: kuyruk
+tailor: terzi
+take: almak
+taken: alınmış
+taking: almak
+tale: masal
+talk: konuşmak
+talker: konuşmacı
+tall: uzun
+tame: ehlileştirmek
+tan: bronzluk
+tank: tankı
+tap: musluk
+tape: kaset
+tar: katran
+tardy: gecikmiş
+task: görev
+taste: tatmak
+taught: öğretilen
+tax: vergi
+tea: çay
+teach: öğretmek
+teacher: Öğretmen
+team: takım
+tear: göz yaşı
+tease: alay etmek
+teaspoon: çay kaşığı
+teeth: dişler
+telephone: telefon
+tell: söylemek
+temper: öfke
+ten: on
+tennis: tenis
+tent: çadır
+term: terim
+terrible: korkunç
+test: Ölçek
+than: hariç
+thank: teşekkür etmek
+thanks: teşekkürler
+thankful: müteşekkir
+thanksgiving: şükran günü
+that: O
+that's: bu
+the: the
+theater: tiyatro
+thee: sana
+their: onların
+them: onlara
+then: Daha sonra
+there: Orası
+these: bunlar
+they: Onlar
+they'd: onlar
+they'll: acaklar
+they're: onlar
+they've: onlar
+thick: kalın
+thief: hırsız
+thimble: yüksük
+thin: ince
+thing: şey
+think: düşünmek
+third: üçüncü
+thirsty: susuz
+thirteen: on üç
+thirty: otuz
+this: Bu
+thorn: diken
+those: onlar
+though: Yine de
+thought: düşünce
+thousand: bin
+thread: iplik
+three: üç
+threw: attı
+throat: boğaz
+throne: taht
+through: başından sonuna kadar
+throw: fırlatmak
+thrown: atılmış
+thumb: baş parmak
+thunder: gök gürültüsü
+thursday: Perşembe
+thy: senin
+tick: kene
+ticket: bilet
+tickle: gıdıklamak
+tie: bağlamak
+tiger: kaplan
+tight: sıkı
+till: kadar
+time: zaman
+tin: teneke
+tinkle: çınlamak
+tiny: minik
+tip: uç
+tiptoe: parmak ucunda
+tire: yorulmak
+tired: yorgun
+title: başlık
+to: ile
+toad: karakurbağası
+toadstool: zehirli mantar
+toast: kızarmış ekmek
+tobacco: tütün
+today: Bugün
+toe: ayak parmağı
+together: birlikte
+toilet: tuvalet
+told: söylenmiş
+tomato: domates
+tomorrow: Yarın
+ton: ton
+tone: ton
+tongue: dil
+tonight: bu akşam
+too: fazla
+took: alınmış
+tool: alet
+toot: çok
+tooth: diş
+toothbrush: diş fırçası
+toothpick: kürdan
+top: tepe
+tore: yırttı
+torn: yırtık
+toss: atmak
+touch: dokunmak
+tow: çekici
+toward: karşı
+towards: karşı
+towel: havlu
+tower: kule
+town: şehir
+toy: oyuncak
+trace: iz
+track: izlemek
+trade: ticaret
+train: tren
+tramp: serseri
+trap: tuzak
+tray: tepsi
+treasure: hazine
+treat: davranmak
+tree: ağaç
+trick: kandırmak
+tricycle: üç tekerlekli bisiklet
+tried: sınanmış
+trim: düzeltme
+trip: seyahat
+trolley: tramvay
+trouble: bela
+truck: kamyon
+true: doğru
+truly: tamamen
+trunk: gövde
+trust: güven
+truth: gerçek
+try: denemek
+tub: küvet
+tuesday: Salı
+tug: römorkör
+tulip: Lale
+tumble: takla
+tune: melodi
+tunnel: tünel
+turkey: Türkiye
+turn: dönüş
+turtle: kaplumbağa
+twelve: on iki
+twenty: yirmi
+twice: iki kere
+twig: dal
+twin: ikiz
+two: iki
+ugly: çirkin
+umbrella: şemsiye
+uncle: amca
+under: altında
+understand: anlamak
+underwear: iç çamaşırı
+undress: soyunmak
+unfair: haksız
+unfinished: tamamlanmamış
+unfold: açılmak
+unfriendly: düşmanca
+unhappy: mutsuz
+unhurt: sağ salim
+uniform: üniforma
+united: Birleşik
+states: eyaletler
+unkind: kaba
+unknown: Bilinmeyen
+unless: meğer ki
+unpleasant: hoş olmayan
+until: değin
+unwilling: isteksiz
+up: yukarı
+upon: üzerine
+upper: üst
+upset: üzgün
+upside: üst taraf
+upstairs: üst katta
+uptown: şehrin yukarısında
+upward: yukarı
+us: biz
+use: kullanmak
+used: kullanılmış
+useful: kullanışlı
+valentine: sevgili
+valley: vadi
+valuable: değerli
+value: değer
+vase: vazo
+vegetable: sebze
+velvet: kadife
+very: çok
+vessel: gemi
+victory: zafer
+view: görüş
+village: köy
+vine: asma
+violet: menekşe
+visit: ziyaret etmek
+visitor: ziyaretçi
+voice: ses
+vote: oy
+wag: sallamak
+wagon: vagon
+waist: bel
+wait: Beklemek
+wake: uyanmak
+waken: uyandırmak
+walk: yürümek
+wall: duvar
+walnut: ceviz
+want: istek
+war: savaş
+warm: ılık
+warn: uyarmak
+was: öyleydi
+wash: yıkamak
+washer: yıkayıcı
+washtub: leğen
+wasn't: değildi
+waste: atık
+watch: kol saati
+watchman: bekçi
+water: su
+watermelon: karpuz
+waterproof: su geçirmez
+wave: dalga
+wax: balmumu
+way: yol
+wayside: yol kenarı
+we: Biz
+weak: zayıf
+weakness: zayıflık
+weaken: zayıflatmak
+wealth: varlık
+weapon: silah
+wear: giymek
+weary: yorgun
+weather: hava durumu
+weave: örgü
+web: ağ
+we'd: evlenmek
+wedding: düğün
+wednesday: Çarşamba
+wee: çiş
+weed: esrar
+week: hafta
+we'll: Peki
+weep: ağlamak
+weigh: tartmak
+welcome: Hoş geldin
+well: Peki
+went: gitmiş
+were: vardı
+we're: biz
+west: batı
+western: batılı
+wet: ıslak
+we've: biz
+whale: balina
+what: Ne
+what's: ne
+wheat: buğday
+wheel: teker
+when: Ne zaman
+whenever: her ne zaman
+where: Neresi
+which: Hangi
+while: sırasında
+whip: kırbaç
+whipped: çırpılmış
+whirl: koşuşturma
+whisky: viski
+whiskey: viski
+whisper: fısıltı
+whistle: ıslık
+white: beyaz
+who: DSÖ
+who'd: kim
+whole: tüm
+who'll: kim yapacak
+whom: kime
+who's: kim
+whose: kimin
+why: Neden
+wicked: kötü
+wide: geniş
+wife: eş
+wiggle: kıpırdamak
+wild: vahşi
+wildcat: yaban kedisi
+will: irade
+willing: hevesli
+willow: Söğüt
+win: kazanç
+wind: rüzgâr
+windy: rüzgarlı
+windmill: yel değirmeni
+window: pencere
+wine: şarap
+wing: kanat
+wink: göz kırpma
+winner: kazanan
+winter: kış
+wipe: silip süpürmek
+wire: tel
+wise: bilge
+wish: dilek
+wit: zekâ
+witch: cadı
+with: ile
+without: olmadan
+woke: uyandım
+wolf: kurt
+woman: kadın
+women: kadınlar
+won: kazanmak
+wonder: merak etmek
+wonderful: müthiş
+won't: alışkanlık
+wood: odun
+wooden: ahşap
+woodpecker: ağaçkakan
+woods: orman
+wool: yün
+woolen: yün
+word: kelime
+wore: giydi
+work: iş
+worker: çalışan
+workman: işçi
+world: dünya
+worm: solucan
+worn: yıpranmış
+worry: endişelenmek
+worse: daha kötüsü
+worst: en kötüsü
+worth: değer
+would: istemek
+wouldn't: yapmazdım
+wound: yara
+wove: dokumak
+wrap: dürüm
+wrapped: sarılmış
+wreck: enkaz
+wren: çalıkuşu
+wring: sıkmak
+write: yazmak
+writing: yazı
+written: yazılı
+wrong: yanlış
+wrote: yazdı
+wrung: sıkılmış
+yard: bahçe
+yarn: iplik
+year: yıl
+yell: bağırmak
+yellow: sarı
+yes: Evet
+yesterday: Dün
+yet: henüz
+yolk: yumurta sarısı
+yonder: orada
+you: Sen
+you'd: sen
+you'll: yapacaksın
+young: genç
+youngster: genç
+your: senin
+yours: senin
+you're: sen
+yourself: kendin
+yourselves: kendiniz
+youth: gençlik
+you've: sen
